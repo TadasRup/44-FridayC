@@ -30,25 +30,35 @@ main div {
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
 
-.develop{
+.deploy {
         text-align: center;
         color: #f34e2d;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
 
-.deploy{
+.develop {
         text-align: center;
         color: #f34e2d;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    } 
+    
+
+    .paragraph1 {
+        text-align: left;
+        color: #676767;
     }
 
-h1 {
-    text-align: center;
-    color: #f34e2d;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}    
+    .paragraph2 {
+        text-align: left;
+        color: #676767;
+    }
 
-p {
-    text-align: left;
-    color: #676767;
-}
+    .paragraph3 {
+        text-align: left;
+        color: #676767;
+    }
+
+    .paragraph4 {
+        text-align: left;
+        color: #676767;
+    }
